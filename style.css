@@ -58,6 +58,23 @@
     color: transparent;
 
 }
+footer {
+    background-color: #333; 
+    color: white; 
+    text-align: center; 
+    padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    border-top: 2px solid #FFD700;
+}
+
+footer p {
+    margin: 5px 0;
+    font-weight: 600;
+}
 @media (max-width: 768px) {
     .nav {
         flex-direction: column;
