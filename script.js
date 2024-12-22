@@ -31,7 +31,7 @@ function updateTime(){
      hny.style.display="none";
      if (time.getMonth() === 0 && time.getDate() === 1){
         hny.style.display="block";
-        body.style.backgroundImage=`url(${"./gif/6ob.gif"})`;
+        body.style.backgroundImage=`url(${"6ob.gif"})`;
         
      } 
 };
