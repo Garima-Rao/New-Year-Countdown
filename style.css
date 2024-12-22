@@ -91,9 +91,9 @@ footer p {
         font-size: 2rem;
     }
 }
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .date {
         margin: calc(50vh - 75px) auto;
         transform: translateY(-50%); 
-    }
+    } */
 }
